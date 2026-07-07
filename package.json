@@ -1,0 +1,18 @@
+{
+  "name": "wanderlust-pro",
+  "version": "1.0.0",
+  "description": "Wanderlust — professional travel discovery and planning platform",
+  "private": true,
+  "scripts": {
+    "start":     "node backend/src/server.js",
+    "dev":       "nodemon backend/src/server.js",
+    "frontend":  "npx live-server frontend --port=3000",
+    "install:backend": "cd backend && npm install"
+  },
+  "keywords": ["travel", "india", "itinerary", "budget", "destinations"],
+  "author": "Wanderlust Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

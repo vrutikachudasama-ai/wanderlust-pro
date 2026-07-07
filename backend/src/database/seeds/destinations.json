@@ -1,0 +1,9 @@
+[
+  { "id":1,  "name":"Maldives",    "country":"Maldives",   "cat":"beaches",  "budget":"₹80,000/person",  "rating":4.9, "months":[11,12,1,2,3,4],   "tags":["Luxury","Honeymoon","Snorkeling"] },
+  { "id":2,  "name":"Goa",         "country":"India",      "cat":"beaches",  "budget":"₹12,000/person",  "rating":4.6, "months":[11,12,1,2,3],     "tags":["Beach","Budget","Nightlife"] },
+  { "id":3,  "name":"Bali",        "country":"Indonesia",  "cat":"beaches",  "budget":"₹40,000/person",  "rating":4.8, "months":[4,5,6,7,8,9],     "tags":["Spiritual","Yoga","Surfing"] },
+  { "id":6,  "name":"Manali",      "country":"India",      "cat":"mountains","budget":"₹10,000/person",  "rating":4.7, "months":[3,4,5,6,10,11],   "tags":["Mountains","Adventure","Budget"] },
+  { "id":7,  "name":"Ladakh",      "country":"India",      "cat":"mountains","budget":"₹18,000/person",  "rating":4.8, "months":[6,7,8,9],          "tags":["Adventure","Spiritual","Photography"] },
+  { "id":11, "name":"Paris",       "country":"France",     "cat":"cafes",    "budget":"₹1,10,000/person","rating":4.8, "months":[4,5,6,9,10],       "tags":["Culture","Romance","Food"] },
+  { "id":23, "name":"Tokyo",       "country":"Japan",      "cat":"international","budget":"₹95,000/person","rating":4.9,"months":[3,4,10,11],       "tags":["Urban","Culture","Food"] }
+]

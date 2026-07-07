@@ -1,0 +1,57 @@
+{
+  "goa": {
+    "name": "Goa, India",
+    "budget": { "hotel": 800, "food": 500, "transport": 350, "activities": 250 },
+    "mid":    { "hotel": 2500, "food": 1200, "transport": 600, "activities": 700 },
+    "luxury": { "hotel": 9000, "food": 3000, "transport": 1500, "activities": 2000 },
+    "tips": [
+      "Book beachside hotels 2-3 months ahead for Dec-Jan",
+      "Scooter rental (₹300-500/day) beats autos for exploring",
+      "Beach shacks offer far better value than hotel restaurants"
+    ]
+  },
+  "manali": {
+    "name": "Manali, India",
+    "budget": { "hotel": 600, "food": 400, "transport": 400, "activities": 300 },
+    "mid":    { "hotel": 2000, "food": 900, "transport": 800, "activities": 900 },
+    "luxury": { "hotel": 7000, "food": 2500, "transport": 2000, "activities": 3000 },
+    "tips": [
+      "Book Rohtang Pass permit online 2 days in advance (₹600)",
+      "Old Manali cafes offer best budget meals (₹150-250/meal)",
+      "Carry cash — ATMs unreliable beyond Manali town"
+    ]
+  },
+  "bali": {
+    "name": "Bali, Indonesia",
+    "budget": { "hotel": 1500, "food": 700, "transport": 500, "activities": 600 },
+    "mid":    { "hotel": 5000, "food": 2000, "transport": 1200, "activities": 2000 },
+    "luxury": { "hotel": 18000, "food": 5500, "transport": 3000, "activities": 7000 },
+    "tips": [
+      "Grab/Gojek apps are 50% cheaper than metered taxis in Kuta/Seminyak",
+      "Ubud restaurants near the rice terraces offer authentic local food (₹200-400)",
+      "Most Bali beach clubs have a minimum spend policy (₹1500-3000) — budget accordingly"
+    ]
+  },
+  "paris": {
+    "name": "Paris, France",
+    "budget": { "hotel": 7000, "food": 3000, "transport": 800, "activities": 1500 },
+    "mid":    { "hotel": 14000, "food": 6000, "transport": 1500, "activities": 4000 },
+    "luxury": { "hotel": 40000, "food": 15000, "transport": 4500, "activities": 12000 },
+    "tips": [
+      "Navigo weekly pass (₹2500 equiv.) covers all Metro, RER, and buses",
+      "Prix-fixe lunch menus at restaurants (€12-18) offer far better value than à la carte",
+      "Museum Pass (₹3600 equiv.) covers Louvre, Versailles, Orsay + 60 museums in 2-6 days"
+    ]
+  },
+  "tokyo": {
+    "name": "Tokyo, Japan",
+    "budget": { "hotel": 5500, "food": 2500, "transport": 800, "activities": 1200 },
+    "mid":    { "hotel": 12000, "food": 5000, "transport": 1500, "activities": 3500 },
+    "luxury": { "hotel": 35000, "food": 12000, "transport": 4500, "activities": 10000 },
+    "tips": [
+      "Suica/Pasmo card works on all Tokyo trains, buses, and in vending machines",
+      "Convenience stores (7-Eleven, Lawson) sell excellent ¥500-700 bento boxes",
+      "Tokyo Fuji Pass covers 3 days unlimited Metro travel"
+    ]
+  }
+}

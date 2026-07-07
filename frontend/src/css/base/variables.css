@@ -1,0 +1,60 @@
+/**
+ * variables.css — Design tokens
+ * All CSS custom properties used throughout the project.
+ * Update here to retheme the entire site.
+ */
+
+:root {
+  /* ── Brand Colours ────────────────────────────────────────────── */
+  --navy:        #1a2332;
+  --navy-lt:     #243447;
+  --gold:        #c4955a;
+  --gold-light:  #e0b87a;
+  --gold-pale:   rgba(196, 149, 90, 0.08);
+  --teal:        #2a9d8f;
+  --tropical:    #00b894;
+  --coral:       #e17055;
+  --cream:       #faf8f4;
+  --cream-dark:  #f0ebe0;
+  --white:       #ffffff;
+
+  /* ── Text ─────────────────────────────────────────────────────── */
+  --text-dk:  #1a2332;
+  --text-md:  #4a5568;
+  --text-lt:  #718096;
+
+  /* ── Typography ───────────────────────────────────────────────── */
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body:    'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+  /* ── Spacing ──────────────────────────────────────────────────── */
+  --spacing-xs:  4px;
+  --spacing-sm:  8px;
+  --spacing-md:  16px;
+  --spacing-lg:  24px;
+  --spacing-xl:  48px;
+  --spacing-2xl: 80px;
+
+  /* ── Border radius ────────────────────────────────────────────── */
+  --radius-s:  6px;
+  --radius-m:  12px;
+  --radius-l:  20px;
+  --radius-xl: 32px;
+
+  /* ── Shadows ──────────────────────────────────────────────────── */
+  --shadow-sm:  0 2px 8px rgba(0,0,0,0.08);
+  --shadow-md:  0 8px 32px rgba(0,0,0,0.12);
+  --shadow-lg:  0 20px 60px rgba(0,0,0,0.15);
+  --shadow-gold: 0 4px 20px rgba(196,149,90,0.25);
+
+  /* ── Transitions ──────────────────────────────────────────────── */
+  --trans:      0.25s ease;
+  --trans-slow: 0.4s ease;
+
+  /* ── Z-index layers ───────────────────────────────────────────── */
+  --z-dropdown:   100;
+  --z-sticky:     500;
+  --z-back-top:  1999;
+  --z-modal:     2000;
+  --z-toast:     2100;
+}
