@@ -1,17 +1,21 @@
 # 🌍 Wanderlust – Travel Planning Website
 
-Wanderlust is a modern travel planning website that helps users explore destinations, check weather conditions, estimate travel budgets, create itineraries, and save their favorite places—all in one place.
+Wanderlust is a modern travel planning website designed to make trip planning simple and enjoyable. Users can explore destinations, check real-time weather, estimate travel budgets, create personalized itineraries, and save their favorite places—all in one platform.
+
+---
 
 ## ✨ Features
 
-* 🔍 Search and explore travel destinations
-* 🌦️ Live weather information
-* 💰 Budget calculator
-* 🗓️ Travel itinerary planner
+* 🔍 Explore travel destinations
+* 🌦️ Real-time weather updates
+* 💰 Travel budget calculator
+* 🗓️ Personalized itinerary planner
 * ✅ Travel checklist
 * ❤️ Save favorite destinations
-* 🌍 Explore hidden gems and seasonal picks
-* 🔐 User authentication (Login & Signup)
+* 🌍 Hidden gems & seasonal recommendations
+* 🔐 User Login & Signup
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -26,21 +30,24 @@ Wanderlust is a modern travel planning website that helps users explore destinat
 * Node.js
 * Express.js
 
-### APIs & Services
+### Hosting
 
-* OpenWeather API
-* Render (Backend Hosting)
-* Netlify (Frontend Hosting)
+* Netlify (Frontend)
+* Render (Backend)
+
+---
 
 ## 🚀 Live Demo
 
-Frontend: *(Add your Netlify URL here)*
+🌐 **Website:** https://wanderlust-vrutika.netlify.app
 
-Backend API: *(Add your Render URL here)*
+⚙️ **Backend API:** https://wanderlust-pro-backend.onrender.com
+
+---
 
 ## 📁 Project Structure
 
-```
+```text
 Wanderlust/
 │
 ├── frontend/
@@ -51,29 +58,29 @@ Wanderlust/
 │
 ├── backend/
 │   ├── src/
-│   ├── routes/
-│   ├── controllers/
 │   ├── package.json
 │   └── .env
 │
 └── README.md
 ```
 
+---
+
 ## ⚙️ Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/wanderlust.git
+git clone https://github.com/YOUR-GITHUB-USERNAME/Wanderlust.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd wanderlust
+cd Wanderlust
 ```
 
-Install backend dependencies:
+Install dependencies:
 
 ```bash
 npm install
@@ -85,23 +92,26 @@ Start the backend server:
 npm start
 ```
 
-Open the frontend in your browser or run it using a local development server.
+Open the frontend using a local development server or your preferred editor.
+
+---
 
 ## 🎯 Future Improvements
 
-* User profiles
-* Booking integration
-* Interactive maps
-* AI-powered travel recommendations
-* Reviews and ratings
-* Multi-language support
+* 🤖 AI-powered travel recommendations
+* 🗺️ Interactive maps
+* 👤 User profiles
+* ⭐ Reviews & Ratings
+* 🌐 Multi-language support
+* ✈️ Booking integration
+
+---
 
 ## 👩‍💻 Author
 
 **Vrutika Chudasama**
-
 Computer Science Engineering Student
 
 ---
 
-⭐ If you like this project, consider giving it a star on GitHub!
+⭐ If you found this project interesting, consider giving it a **Star ⭐** on GitHub!
